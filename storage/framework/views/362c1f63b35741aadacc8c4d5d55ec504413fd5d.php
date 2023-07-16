@@ -1,0 +1,2 @@
+<p class="break-all"><?php echo e($value ??  $model[$column->attribute] ?? ''); ?></p>
+<?php /**PATH /Users/ambrosetemidayobako/Desktop/Dev/web/fuodz-admin/resources/views/components/table/custom.blade.php ENDPATH**/ ?>

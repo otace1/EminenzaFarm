@@ -1,0 +1,1 @@
+<?php echo e($value ?? $model->price ?? $model[$column->attribute] ??  ''); ?><?php /**PATH /Users/ambrosetemidayobako/Desktop/Dev/web/fuodz-admin/resources/views/components/table/payment_method.blade.php ENDPATH**/ ?>
